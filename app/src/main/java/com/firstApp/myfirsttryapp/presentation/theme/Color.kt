@@ -1,4 +1,4 @@
-package com.firstApp.myfirsttryapp.ui.theme
+package com.firstApp.myfirsttryapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
